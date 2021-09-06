@@ -26,7 +26,7 @@ void read_from_dht(dht_reading *result);
 int main() {
     stdio_init_all();
     gpio_init(DHT_PIN);
-#ifdef LED_PIN
+#ifdef LED_PINprint
     gpio_init(LED_PIN);
     gpio_set_dir(LED_PIN, GPIO_OUT);
 #endif

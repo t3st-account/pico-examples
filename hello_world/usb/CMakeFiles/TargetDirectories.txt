@@ -1,0 +1,2 @@
+/home/t/pico-examples/hello_world/usb/CMakeFiles/rebuild_cache.dir
+/home/t/pico-examples/hello_world/usb/CMakeFiles/edit_cache.dir
